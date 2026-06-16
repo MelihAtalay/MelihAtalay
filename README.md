@@ -1,20 +1,21 @@
-# Hi, I'm Melih Atalay
+# Hi, My name is Melih Atalay
 
-**iOS Developer • Full-Stack Developer**
-
-B.Sc. in Computer Engineering, Akdeniz University
-
-Building high-performance mobile applications and scalable backend systems.
+### iOS Developer • Full-Stack Developer
 
 <p align="left">
-  <a href="https://linkedin.com/in/melih-atalay-945095219">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:melihatalay08@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/>
-  </a>
+  <a href="https://linkedin.com/in/melih-atalay-945095219" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Melih Atalay LinkedIn" /></a>
+  <a href="mailto:melihatalay08@gmail.com" target="blank"><img src="https://img.shields.io/badge/melihatalay08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
 </p>
+
+---
+
+- **Education:** B.Sc. in Computer Engineering, Akdeniz University
+- **Based in:** Bursa, Türkiye / Sofia, Bulgaria
+- **Focus:** Building high-performance mobile applications and scalable backend systems.
+
+---
+
+
 
 ## About Me
 
