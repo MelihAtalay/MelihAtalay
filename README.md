@@ -8,14 +8,13 @@ Building high-performance mobile applications and scalable backend systems.
 
 <p align="left">
   <a href="https://linkedin.com/in/melih-atalay-945095219">
-    <img src="https://img.shields.io/badge/LinkedIn-Melih%20Atalay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:melihatalay08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-melihatalay08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" alt="Email"/>
   </a>
 </p>
-
----
 
 ## About Me
 
