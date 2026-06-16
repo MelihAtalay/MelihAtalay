@@ -2,10 +2,9 @@
 
 **iOS Developer • Full-Stack Developer**
 
-📍 Bursa, Türkiye
-🎓 B.Sc. in Computer Engineering, Akdeniz University
-📱 Building high-performance mobile applications and scalable backend systems
-📧 [melihatalay08@gmail.com](mailto:melihatalay08@gmail.com)
+B.Sc. in Computer Engineering, Akdeniz University
+
+Building high-performance mobile applications and scalable backend systems.
 
 <p align="left">
   <a href="https://linkedin.com/in/melih-atalay-945095219">
@@ -112,25 +111,9 @@ I am passionate about mobile architecture, clean code practices, and creating re
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelihAtalay&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihAtalay&layout=compact&hide_border=true&theme=github_dark" />
 </p>
-
----
-
-## Let's Connect
-
-I'm always interested in discussing:
-
-* iOS Development
-* Mobile Architecture
-* Full-Stack Engineering
-* AI-Driven Products
-* New Opportunities and Collaborations
-
-**Email:** [melihatalay08@gmail.com](mailto:melihatalay08@gmail.com)
-
-**LinkedIn:** linkedin.com/in/melih-atalay-945095219
 
 ---
 
